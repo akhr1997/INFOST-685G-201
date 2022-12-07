@@ -1,0 +1,171 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  /* background-color: #00C2FF; */
+  background-color: white;
+  color: black
+}
+
+#cta {
+  background-color: #00C2FF;
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+}
+
+#footer {
+  text-align: center;
+  padding: 50px 50px 50px 50px;
+}
+
+.foot-icon{
+  margin-right: 30px;
+
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #00C2FF;
+  color: white;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat";
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+p {
+  color: #8F8F8F;
+}
+
+.icon {
+  color: #00C2FF;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #00C2FF;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.navbar-brand{
+  color: black !important;
+}
+
+.svg{
+  height: 400px;
+  width: 400px;
+  margin-left: 300px;
+  margin-bottom: 300px;
+}
+
+.nav-link {
+  color: black !important;
+  font-weight: 100;
+  font-size: 1.2rem;
+  font-family: "Ubuntu";
+}
+
+/* Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  margin-left: 300px;
+  margin-bottom: 300px;
+  width: 40%;
+  display: inline;
+
+  /* transform: rotateZ(25deg); */
+}
+
+#features {
+  background-color: white;
+  margin: 7% 15%;
+}
+
+.full{
+  margin-top: 100px;
+}
+
+.far {
+  font-color: #00C2FF
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.testimonials-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #00C2FF;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+  text-align: center;
+}
+
+#accordian{
+  background-color: #86d8f1;
+  padding: 3% 2%;
+  text-align: center;
+}
